@@ -62,7 +62,7 @@ http://localhost:8080/api/rate?base=USD
 
 ![Image](https://github.com/user-attachments/assets/1d9bfc22-c3bd-45f4-bb44-f80279305ed9)
 
-![Image](https://github.com/user-attachments/assets/5fbf0aa8-e33b-4515-9af6-ef6286c16bb6)
+
 
 
 
